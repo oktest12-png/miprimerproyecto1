@@ -8,6 +8,7 @@ import random
 import json
 
 #comentario de cambio para el reto
+#cambio para rama de pruebas
 
 # Importamos las librerías para el código QR
 import qrcode
