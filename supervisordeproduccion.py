@@ -7,6 +7,8 @@ from collections import defaultdict
 import random
 import json
 
+#comentario de cambio para el reto
+
 # Importamos las librerías para el código QR
 import qrcode
 from PIL import Image, ImageTk
